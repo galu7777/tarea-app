@@ -1,0 +1,10 @@
+export const UPDATE_TITLE = 'UPDATE_TITLE';
+export const UPDATE_DESCRIPTION = 'UPDATE_DESCRIPTION';
+export const ADD_NOTIFICATION = 'ADD_NOTIFICATION';
+export const ADD_COLOR = 'ADD_COLOR';
+export const IS_OPEN = 'IS_OPEN';
+export const SET_DATE = 'SET_DATE';
+export const SET_VALUE = 'SET_VALUE';
+export const SET_IS_DISABLE = 'SET_IS_DISABLE';
+export const SET_IS_VISIBLE = 'SET_IS_VISIBLE';
+export const SET_CARDS = 'SET_CARDS';
